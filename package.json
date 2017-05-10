@@ -1,0 +1,28 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "oop task for day 2",
+  "main": "oop.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olaFred/home-session-two.git"
+  },
+  "keywords": [
+    "jasmine",
+    "javascript",
+    "Object",
+    "Oriented"
+  ],
+  "author": "Fred Adewole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olaFred/home-session-two/issues"
+  },
+  "homepage": "https://github.com/olaFred/home-session-two#readme"
+}
