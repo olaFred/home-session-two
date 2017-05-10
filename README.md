@@ -1,16 +1,19 @@
-# home-session-two
-
+# home-session-api
 Application:
-This is a javascript appplication that takes in a string as argument and returns the number of times each string appears in JSON format.
-It comes with some test cases written in jasmine javascript.
+This is a command line application that consumes api from darksky.net
 
-Installation:
-this application requires "jasmine" as the testing framework
-run 'npm install' to install dependencies.
+Dependencies:
+this application has no dependencies.
 
 Running:
-To run this application,
-- change directory to this repo
-- change directory to tests/
-- run 'npm install' to install dependencies
-- run 'jasmine specs.js'
+to run application, 
+- CD to directory
+- run "node app.js <longitude> <latitude>"
+"node app.js 9.0765 7.3986" gives the weather in Lagos.
+
+Result:
+This Application returns:
+- Location
+- Weather
+- Temperature
+- Next day's weather forecast in JSON format.
