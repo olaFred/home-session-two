@@ -1,8 +1,8 @@
 {
-  "name": "day2",
+  "name": "tasks2",
   "version": "1.0.0",
-  "description": "oop task for day 2",
-  "main": "oop.js",
+  "description": "an application that returns word count",
+  "main": "index.js",
   "directories": {
     "test": "tests"
   },
@@ -15,11 +15,9 @@
   },
   "keywords": [
     "jasmine",
-    "javascript",
-    "Object",
-    "Oriented"
+    "javascript"
   ],
-  "author": "Fred Adewole",
+  "author": "\"Fred Adewole\"",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/olaFred/home-session-two/issues"
